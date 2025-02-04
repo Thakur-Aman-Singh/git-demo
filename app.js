@@ -3,6 +3,9 @@ function greet(){
     console.log('hello');
 }
 
-function newMain(){
+function newFeature(){
     console.log('hello');
 }
+function newFeature(){
+    console.log('hello');
+}c
